@@ -10,5 +10,8 @@ package interfaces;
  * @author DIEGO MALDONADO
  */
 public interface MovimientoIzquierda {
-    
+    /**
+     * Metodo para mover vehiculo a la izquierda
+     */
+    public void moverIzquierda();
 }

@@ -10,5 +10,8 @@ package interfaces;
  * @author DIEGO MALDONADO
  */
 public interface MovimientoDerecha {
-    
+    /**
+     * Interfaz para los movimientos a la derecha
+     */
+    public void moverDerecha();
 }
